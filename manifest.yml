@@ -1,0 +1,28 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2021-05-26'
+    title: 'First version'
+    description: 'First version. Manifest created.'
+plugin:
+  -
+    name: wf/table
+    version: 1.23.0
+sys:
+  -
+    name: mercury
+    version:
+      - '1.0'
+php:
+  - '7.2'
+author: null
+links: null
+description: ''
+third_part_software: null
+webmaster:
+  element:
+    -
+      type: widget
+      data:
+        plugin: icons/bootstrap_150
+        method: list
